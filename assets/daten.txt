@@ -1,0 +1,15 @@
+HG: #161618
+Font: #F5F7F6 sans-serif
+
+Uer-Bg: #2A2E31
+Top: #040405
+Linkfarbe: #75C0C7
+
+
+AS-Grün: #5BB91C
+NS-Violett: #E108E9
+Admin-Gelb: #FF9900
+Gebannt: #444444
+Mod: #008FFF
+Fliesentisch: #6C432B
+Legende: #1CB992
